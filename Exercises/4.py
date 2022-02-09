@@ -1,4 +1,7 @@
-
+#  Write a Python function that takes a list of words and return the longest word and the length of the longest one
+# Sample Output:
+# Longest word: Exercises
+# Length of the longest word: 9
 
 def findlongest():
     max = len(str[0])
